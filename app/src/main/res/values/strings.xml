@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Widgets</string>
-    <string name="bruhSound">Mitt favorit block i minecraft är TNT, vilket är ditt?</string>
+    <string name="app_name">B21leowa</string>
+    <string name="text">Mitt favorit block i minecraft är TNT, vilket är ditt?</string>
     <string name="textField">Skriv in ditt favorit block här!</string>
+    <string name="detonate">Detonera</string>
 </resources>
